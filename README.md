@@ -1,5 +1,5 @@
 # My First Coding Assignment
-![My Personality] (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtqand0ZWNpa3V3Z3Rod3RmbGYzaTJqdWZyaTAxenp0enVhaXg3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DxneCO38aK4Fi/giphy.gif)
+![My Personality](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtqand0ZWNpa3V3Z3Rod3RmbGYzaTJqdWZyaTAxenp0enVhaXg3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DxneCO38aK4Fi/giphy.gif)
 ## About Me
 I am resilient, focused, and organized. I am an immigrant from Mexico and have been living in the United States for about 7 years. I currently work as a business developer for a Spanish children's clothing company. Outside of work, I love cats and spending time with my husband.
 
